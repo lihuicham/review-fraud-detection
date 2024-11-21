@@ -2,4 +2,7 @@
 Yelp Reviews Fraud Detection project for NUS BT4012 course
 
 ## Dataset 
-Yelp Reviews Dataset on Kaggle : [link](https://www.kaggle.com/datasets/ahmeddheyaa/yelpreviwsdb)
+Yelp Reviews Dataset on Kaggle : [link to dataset](https://www.kaggle.com/datasets/ahmeddheyaa/yelpreviwsdb)
+
+## Code 
+For source code, read the project's [Jupyter notebook](https://github.com/lihuicham/yelp-reviews-fraud-detection/blob/main/code.ipynb)
